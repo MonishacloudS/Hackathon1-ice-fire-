@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+.cardpdiv {
+    background-color: rgba(255, 235, 205, 0.459);
+}
+
+.div {
+    background-color: rgba(59, 33, 77, 0.466) !important;
+}
+
+.mbtn:hover {
+    font-size: 120%;
+    zoom: 105%;
+    background-color: rgba(61, 26, 87, 0.993);
+    color: aliceblue;
+}
+
+.mbtn {
+    color: aliceblue;
+}
+
+.card:hover {
+    zoom: 108%;
+}
+
+.navbarbg {
+    background-color: rgba(59, 33, 77, 0.966);
+}
+
+.brand {
+    border: 2rem !important;
+    font-size: x-large !important;
+    color: #fff !important;
+    font-weight: 700;
+    font-style: 'Redressed', cursive !important;
+    font-style: italic !important;
+}
+
+.infobtn {
+    background-color: rgba(61, 26, 87, 0.993);
+}
+
+.navimg {
+    border-radius: 50rem;
+    height: 3rem;
+    width: 3rem;
+    overflow: hidden;
+}
